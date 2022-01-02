@@ -1,0 +1,168 @@
+{
+	"textures": [
+		{
+			"image": "butterfly.png",
+			"size": {
+				"w": 457,
+				"h": 297
+			},
+			"sprites": [
+				{
+					"filename": "Butterfly-idle-left-1.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 277,
+						"h": 112
+					},
+					"margin": {
+						"x": 1362,
+						"y": 672,
+						"w": 1919,
+						"h": 1248
+					}
+				},
+				{
+					"filename": "Butterfly-idle-left-2.png",
+					"region": {
+						"x": 280,
+						"y": 1,
+						"w": 176,
+						"h": 69
+					},
+					"margin": {
+						"x": 1475,
+						"y": 714,
+						"w": 2020,
+						"h": 1291
+					}
+				},
+				{
+					"filename": "Butterfly-left-1.png",
+					"region": {
+						"x": 280,
+						"y": 1,
+						"w": 176,
+						"h": 69
+					},
+					"margin": {
+						"x": 1475,
+						"y": 714,
+						"w": 2020,
+						"h": 1291
+					}
+				},
+				{
+					"filename": "Butterfly-left-2.png",
+					"region": {
+						"x": 280,
+						"y": 72,
+						"w": 174,
+						"h": 55
+					},
+					"margin": {
+						"x": 1475,
+						"y": 728,
+						"w": 2022,
+						"h": 1305
+					}
+				},
+				{
+					"filename": "Butterfly-left-4.png",
+					"region": {
+						"x": 1,
+						"y": 129,
+						"w": 170,
+						"h": 107
+					},
+					"margin": {
+						"x": 1474,
+						"y": 726,
+						"w": 2026,
+						"h": 1253
+					}
+				},
+				{
+					"filename": "Butterfly-left-3.png",
+					"region": {
+						"x": 1,
+						"y": 238,
+						"w": 177,
+						"h": 58
+					},
+					"margin": {
+						"x": 1475,
+						"y": 727,
+						"w": 2019,
+						"h": 1302
+					}
+				},
+				{
+					"filename": "Butterfly-front-1.png",
+					"region": {
+						"x": 173,
+						"y": 115,
+						"w": 102,
+						"h": 86
+					},
+					"margin": {
+						"x": 1347,
+						"y": 692,
+						"w": 2094,
+						"h": 1274
+					}
+				},
+				{
+					"filename": "Butterfly-front-2.png",
+					"region": {
+						"x": 180,
+						"y": 203,
+						"w": 146,
+						"h": 62
+					},
+					"margin": {
+						"x": 1324,
+						"y": 716,
+						"w": 2050,
+						"h": 1298
+					}
+				},
+				{
+					"filename": "Butterfly-front-3.png",
+					"region": {
+						"x": 277,
+						"y": 129,
+						"w": 142,
+						"h": 62
+					},
+					"margin": {
+						"x": 1323,
+						"y": 744,
+						"w": 2054,
+						"h": 1298
+					}
+				},
+				{
+					"filename": "Butterfly-front-4.png",
+					"region": {
+						"x": 328,
+						"y": 193,
+						"w": 115,
+						"h": 98
+					},
+					"margin": {
+						"x": 1335,
+						"y": 734,
+						"w": 2081,
+						"h": 1262
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0b883cedfdacf65a1e6af173681ed922:32f575574b7bce7ba8e9076b4a16991c:b872d6a4a7bea0ad0177006ec5dbdf0f$"
+	}
+}

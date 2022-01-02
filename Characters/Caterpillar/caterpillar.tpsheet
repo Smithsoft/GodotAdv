@@ -1,0 +1,63 @@
+{
+	"textures": [
+		{
+			"image": "caterpillar.png",
+			"size": {
+				"w": 108,
+				"h": 233
+			},
+			"sprites": [
+				{
+					"filename": "Caterpillar-3.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 106,
+						"h": 89
+					},
+					"margin": {
+						"x": 1193,
+						"y": 479,
+						"w": 2090,
+						"h": 1271
+					}
+				},
+				{
+					"filename": "Caterpillar-1.png",
+					"region": {
+						"x": 1,
+						"y": 92,
+						"w": 93,
+						"h": 77
+					},
+					"margin": {
+						"x": 1195,
+						"y": 472,
+						"w": 2103,
+						"h": 1283
+					}
+				},
+				{
+					"filename": "Caterpillar-2.png",
+					"region": {
+						"x": 1,
+						"y": 171,
+						"w": 76,
+						"h": 61
+					},
+					"margin": {
+						"x": 1204,
+						"y": 489,
+						"w": 2120,
+						"h": 1299
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7b0b74f1425cdcf8ffd170a104602283:23e97e46d70cf7d153b8891237033048:e47e77b2a18419c7652a74613718fde0$"
+	}
+}

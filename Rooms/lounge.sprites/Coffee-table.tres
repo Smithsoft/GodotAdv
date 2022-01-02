@@ -1,0 +1,9 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=2]
+
+[ext_resource path="res://Rooms/lounge.png" type="Texture" id=1]
+
+[resource]
+flags = 7
+atlas = ExtResource( 1 )
+region = Rect2( 724, 968, 520, 354 )
+margin = Rect2( 876, 1006, 1676, 1006 )

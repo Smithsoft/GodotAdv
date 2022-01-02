@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/caterpillar.tpsheet-2bf847313b7d0ee455256bdd5656bf30.res"
+
+[deps]
+
+files=[ "res://Characters/Caterpillar/caterpillar.sprites/Caterpillar-3.tres", "res://Characters/Caterpillar/caterpillar.sprites/Caterpillar-1.tres", "res://Characters/Caterpillar/caterpillar.sprites/Caterpillar-2.tres" ]
+
+source_file="res://Characters/Caterpillar/caterpillar.tpsheet"
+dest_files=[ "res://.import/caterpillar.tpsheet-2bf847313b7d0ee455256bdd5656bf30.res", "res://Characters/Caterpillar/caterpillar.sprites/Caterpillar-3.tres", "res://Characters/Caterpillar/caterpillar.sprites/Caterpillar-1.tres", "res://Characters/Caterpillar/caterpillar.sprites/Caterpillar-2.tres" ]
+
+[params]
+

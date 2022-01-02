@@ -1,0 +1,228 @@
+{
+	"textures": [
+		{
+			"image": "lounge.png",
+			"size": {
+				"w": 1661,
+				"h": 1878
+			},
+			"sprites": [
+				{
+					"filename": "Credenza.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 739,
+						"h": 522
+					},
+					"margin": {
+						"x": 1380,
+						"y": 838,
+						"w": 1457,
+						"h": 838
+					}
+				},
+				{
+					"filename": "Armchair.png",
+					"region": {
+						"x": 1,
+						"y": 525,
+						"w": 896,
+						"h": 431
+					},
+					"margin": {
+						"x": 553,
+						"y": 734,
+						"w": 1300,
+						"h": 929
+					}
+				},
+				{
+					"filename": "Floor-rug.png",
+					"region": {
+						"x": 742,
+						"y": 1,
+						"w": 909,
+						"h": 285
+					},
+					"margin": {
+						"x": 728,
+						"y": 1075,
+						"w": 1287,
+						"h": 1075
+					}
+				},
+				{
+					"filename": "TV-remote.png",
+					"region": {
+						"x": 742,
+						"y": 288,
+						"w": 110,
+						"h": 101
+					},
+					"margin": {
+						"x": 1068,
+						"y": 1223,
+						"w": 2086,
+						"h": 1259
+					}
+				},
+				{
+					"filename": "Pot-plant.png",
+					"region": {
+						"x": 899,
+						"y": 288,
+						"w": 323,
+						"h": 678
+					},
+					"margin": {
+						"x": 1131,
+						"y": 298,
+						"w": 1873,
+						"h": 682
+					}
+				},
+				{
+					"filename": "Pendant-light.png",
+					"region": {
+						"x": 1,
+						"y": 958,
+						"w": 379,
+						"h": 414
+					},
+					"margin": {
+						"x": 853,
+						"y": 0,
+						"w": 1817,
+						"h": 946
+					}
+				},
+				{
+					"filename": "Door-opened.png",
+					"region": {
+						"x": 382,
+						"y": 958,
+						"w": 340,
+						"h": 643
+					},
+					"margin": {
+						"x": 847,
+						"y": 276,
+						"w": 1856,
+						"h": 717
+					}
+				},
+				{
+					"filename": "TV-off.png",
+					"region": {
+						"x": 1,
+						"y": 1374,
+						"w": 378,
+						"h": 313
+					},
+					"margin": {
+						"x": 1558,
+						"y": 354,
+						"w": 1818,
+						"h": 1047
+					}
+				},
+				{
+					"filename": "Coffee-table.png",
+					"region": {
+						"x": 724,
+						"y": 968,
+						"w": 520,
+						"h": 354
+					},
+					"margin": {
+						"x": 876,
+						"y": 1006,
+						"w": 1676,
+						"h": 1006
+					}
+				},
+				{
+					"filename": "Door-closed.png",
+					"region": {
+						"x": 1224,
+						"y": 288,
+						"w": 318,
+						"h": 630
+					},
+					"margin": {
+						"x": 846,
+						"y": 274,
+						"w": 1878,
+						"h": 730
+					}
+				},
+				{
+					"filename": "Sofa.png",
+					"region": {
+						"x": 724,
+						"y": 1324,
+						"w": 556,
+						"h": 341
+					},
+					"margin": {
+						"x": 0,
+						"y": 1019,
+						"w": 1640,
+						"h": 1019
+					}
+				},
+				{
+					"filename": "Painting.png",
+					"region": {
+						"x": 1246,
+						"y": 920,
+						"w": 414,
+						"h": 327
+					},
+					"margin": {
+						"x": 80,
+						"y": 273,
+						"w": 1782,
+						"h": 1033
+					}
+				},
+				{
+					"filename": "TV-playing.png",
+					"region": {
+						"x": 1282,
+						"y": 1249,
+						"w": 378,
+						"h": 313
+					},
+					"margin": {
+						"x": 1558,
+						"y": 354,
+						"w": 1818,
+						"h": 1047
+					}
+				},
+				{
+					"filename": "TV-static.png",
+					"region": {
+						"x": 1282,
+						"y": 1564,
+						"w": 378,
+						"h": 313
+					},
+					"margin": {
+						"x": 1558,
+						"y": 354,
+						"w": 1818,
+						"h": 1047
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a1e8dbe3468d820ee0dd2360bfc2383b:360906b2e5ea296b33400fc981d44c7a:e33c8d6b48dc50f9a6695439f0997b20$"
+	}
+}

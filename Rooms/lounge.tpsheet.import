@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/lounge.tpsheet-0441df13f0486d64ab02eac9bfefbd1e.res"
+
+[deps]
+
+files=[ "res://Rooms/lounge.sprites/Credenza.tres", "res://Rooms/lounge.sprites/Armchair.tres", "res://Rooms/lounge.sprites/Floor-rug.tres", "res://Rooms/lounge.sprites/TV-remote.tres", "res://Rooms/lounge.sprites/Pot-plant.tres", "res://Rooms/lounge.sprites/Pendant-light.tres", "res://Rooms/lounge.sprites/Door-opened.tres", "res://Rooms/lounge.sprites/TV-off.tres", "res://Rooms/lounge.sprites/Coffee-table.tres", "res://Rooms/lounge.sprites/Door-closed.tres", "res://Rooms/lounge.sprites/Sofa.tres", "res://Rooms/lounge.sprites/Painting.tres", "res://Rooms/lounge.sprites/TV-playing.tres", "res://Rooms/lounge.sprites/TV-static.tres" ]
+
+source_file="res://Rooms/lounge.tpsheet"
+dest_files=[ "res://.import/lounge.tpsheet-0441df13f0486d64ab02eac9bfefbd1e.res", "res://Rooms/lounge.sprites/Credenza.tres", "res://Rooms/lounge.sprites/Armchair.tres", "res://Rooms/lounge.sprites/Floor-rug.tres", "res://Rooms/lounge.sprites/TV-remote.tres", "res://Rooms/lounge.sprites/Pot-plant.tres", "res://Rooms/lounge.sprites/Pendant-light.tres", "res://Rooms/lounge.sprites/Door-opened.tres", "res://Rooms/lounge.sprites/TV-off.tres", "res://Rooms/lounge.sprites/Coffee-table.tres", "res://Rooms/lounge.sprites/Door-closed.tres", "res://Rooms/lounge.sprites/Sofa.tres", "res://Rooms/lounge.sprites/Painting.tres", "res://Rooms/lounge.sprites/TV-playing.tres", "res://Rooms/lounge.sprites/TV-static.tres" ]
+
+[params]
+

@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_spritesheet"
+type="Resource"
+path="res://.import/butterfly.tpsheet-cc1b020cbe18b79f0a8aab67217cf008.res"
+
+[deps]
+
+files=[ "res://Characters/Butterfly/butterfly.sprites/Butterfly-idle-left-1.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-idle-left-2.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-left-1.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-left-2.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-left-4.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-left-3.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-front-1.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-front-2.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-front-3.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-front-4.tres" ]
+
+source_file="res://Characters/Butterfly/butterfly.tpsheet"
+dest_files=[ "res://.import/butterfly.tpsheet-cc1b020cbe18b79f0a8aab67217cf008.res", "res://Characters/Butterfly/butterfly.sprites/Butterfly-idle-left-1.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-idle-left-2.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-left-1.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-left-2.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-left-4.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-left-3.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-front-1.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-front-2.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-front-3.tres", "res://Characters/Butterfly/butterfly.sprites/Butterfly-front-4.tres" ]
+
+[params]
+
